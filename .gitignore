@@ -1,0 +1,6 @@
+*.d.ts
+*.js.map
+*.js
+node_modules/
+*.log
+*.log.*

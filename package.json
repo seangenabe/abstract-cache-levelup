@@ -1,0 +1,32 @@
+{
+  "name": "@seangenabe/abstract-cache-levelup",
+  "version": "1.0.0",
+  "description": "abstract-cache over levelup",
+  "main": "index.js",
+  "dependencies": {
+    "level": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^10.0.6",
+    "typescript": "^2.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --project ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seangenabe/abstract-cache-level.git"
+  },
+  "keywords": [
+    "level",
+    "cache",
+    "abstract-cache"
+  ],
+  "author": "Sean Genabe <seangenabe@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seangenabe/abstract-cache-level/issues"
+  },
+  "homepage": "https://github.com/seangenabe/abstract-cache-level#readme"
+}
